@@ -1,0 +1,189 @@
+{
+  "checked_date": "2026-11-19",
+  "basis": "Facts verified as published on original website; source URLs and limits below. No communication with company or form submission performed.",
+  "display_name": {
+    "value": "Nilssons Allservice",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/",
+    "qualification": "Short display form of original legal brand name."
+  },
+  "legal_name": {
+    "value": "Nilssons Allservice For Hjo AB",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+  },
+  "org_number": {
+    "value": "559396-8968",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/",
+    "corroboration_url": "https://www.ratsit.se/5593968968-Nilssons_Allservice_for_Hjo_AB"
+  },
+  "address": {
+    "street": "Mellanvägen 37",
+    "postal_code": "544 35",
+    "city": "Hjo",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+    "qualification": "Published company/registered address; do not invent walk-in reception, workshop or visitor hours."
+  },
+  "phone": {
+    "value": "+46709486936",
+    "display": "070-948 69 36",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+    "evidence": "Original tel link tel:+46709486936 and displayed number 0709486936."
+  },
+  "email": {
+    "recommended_recipient": "pnilssonallservice@gmail.com",
+    "recommended_visible": "pnilssonallservice@gmail.com",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+    "evidence": "Original clickable email target mailto:pnilssonallservice@gmail.com. Its visible label is info@nilssonsallserviceforhjoab.se.",
+    "original_display_label": "info@nilssonsallserviceforhjoab.se",
+    "qualification": "The addresses have not been tested for delivery. Use the actual original mailto target for draft generation, and make visible recipient match target. Original domain email may be listed separately as original published display address, not silently treated as verified routing."
+  },
+  "opening_hours": {
+    "monday_friday": "09:00–17:00",
+    "saturday": "10:00–15:00",
+    "sunday": "Stängt",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+    "qualification": "Original website hours take priority over conflicting directory snippets; no 24/7 or emergency availability stated."
+  },
+  "customer_groups": {
+    "general": [
+      "Privatpersoner",
+      "Företag",
+      "Bostadsrättsföreningar"
+    ],
+    "snow": [
+      "Privatpersoner",
+      "Företag",
+      "Samfälligheter",
+      "Bostadsrättsföreningar"
+    ],
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+  },
+  "service_areas": {
+    "summer_and_allservice": [
+      "Hjo",
+      "Tibro",
+      "Skövde",
+      "Karlsborg",
+      "Tidaholm",
+      "Norra Skaraborg"
+    ],
+    "snow_and_ice": "Hjo kommun endast",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/",
+    "qualification": "Original introductory text says hela Skaraborg, but the detailed scope names the listed municipalities/area and explicitly limits winter service to Hjo. Use detailed scope rather than imply snow service throughout Skaraborg."
+  },
+  "services": [
+    {
+      "slug": "grasklippning",
+      "name": "Gräsklippning",
+      "scope": "Gräsklippning för privatpersoner, företag och bostadsrättsföreningar.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "hackklippning",
+      "name": "Häckklippning",
+      "scope": "Häckklippning named in original hero service list; no more specific service details supplied.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "tradgardsskotsel",
+      "name": "Trädgårdsskötsel och grönyteskötsel",
+      "scope": "Trädgårdsskötsel in hero, grönyteskötsel in service introduction and quote form.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "rojning",
+      "name": "Röjning",
+      "scope": "Trimning, ogräsrensning samt röjning av sly, diken och vägkanter.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "fastighetsskotsel",
+      "name": "Fastighetsskötsel",
+      "scope": "Service category explicitly listed; no detailed maintenance checklist or specialist trades stated.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "personaluthyrning",
+      "name": "Personaluthyrning",
+      "scope": "Service category explicitly listed; no named qualifications, vehicles, staff numbers or assignment terms stated.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "snorojning",
+      "name": "Snöröjning och halkbekämpning",
+      "scope": "Winter service within Hjo kommun only.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    },
+    {
+      "slug": "allservice",
+      "name": "Övrig allservice",
+      "scope": "Company invites contact about other jobs and discussing a solution; do not turn this into a guarantee that every job is accepted.",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/"
+    }
+  ],
+  "quote_offer": {
+    "value": "Kostnadsfri offert",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/",
+    "response_time": "Så snart som möjligt; no measured response-time guarantee."
+  },
+  "rut_rot": {
+    "original_claim": "Vi erbjuder både RUT och ROT till privatpersoner.",
+    "source_url": "https://www.nilssonsallserviceforhjoab.se/",
+    "recommended_copy": "Möjlighet till avdrag beror på arbete och personliga förutsättningar. Läs aktuella villkor hos Skatteverket och stäm av uppdraget.",
+    "official_url": "https://www.skatteverket.se/privat/fastigheterochbostad/rotarbeteochrutarbete.4.2e56d4ba1202f95012080002966.html",
+    "qualification": "Do not invent percentages, caps, automatic eligibility, or promise that every listed service qualifies."
+  },
+  "original_form": {
+    "quote_url": "https://www.nilssonsallserviceforhjoab.se/begaer-offert",
+    "contact_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+    "method": "POST",
+    "action": "No explicit action; original Webador-hosted same-page handler with CSRF and captcha.",
+    "quote_required": "Home marks service,name,phone,place,message required; separate quote page differs and only phone/place carry HTML required.",
+    "email": "Optional in original quote, required in contact form.",
+    "image_upload": "Optional file input on original quote, with multipart/form-data.",
+    "qualification": "Original handler and receipt were not tested or reused. Standalone delivery should prepare email draft plus downloadable summary. Files must be attached manually in email; do not imply upload/attachment occurred."
+  },
+  "social_links": [
+    {
+      "label": "Facebook",
+      "url": "https://facebook.com/Nilssons",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+      "qualification": "Original published target, generic URL; profile ownership not independently verified. Recommend omit until confirmed."
+    },
+    {
+      "label": "Instagram",
+      "url": "https://instagram.com/NilssonsAllserviceForHjoAB",
+      "source_url": "https://www.nilssonsallserviceforhjoab.se/kontakta-oss",
+      "qualification": "Original published target; profile ownership/content not independently verified."
+    }
+  ],
+  "registry_corroboration": {
+    "source_url": "https://www.ratsit.se/5593968968-Nilssons_Allservice_for_Hjo_AB",
+    "observed_in_search": "Search-indexed registry information dated 2026-11-06 identifies same name/org/address as active AB, registered 2022-09-15.",
+    "additional_url": "https://www.hitta.se/verksamhet/nilssons-allservice-for-hjo-ab-nnorrvfh",
+    "additional_observed": "Same org,address,phone and service category; registration/F-skatt supported in listing.",
+    "qualification": "Third-party registry presentation, not a direct Bolagsverket certificate. No reason found to flag identity discrepancy. Avoid unrelated financial data or staff biographies in marketing content."
+  },
+  "unverified_or_absent": {
+    "reviews": "No attributable customer reviews, ratings or customer quotes on original pages.",
+    "projects": "No customer project identities, locations, dates or before/after evidence. Original illustrations use Pexels URLs.",
+    "team": "No names or portraits on original pages; no invented team or owner profile.",
+    "certifications": "No stated trade qualifications, industry badges, guarantees or insurance policy details.",
+    "prices": "No service prices or minimum terms stated.",
+    "response_times": "No 24h/48h guarantee, hotline, emergency or round-the-clock availability.",
+    "service_detail": "No documented construction, roofing, plumbing, electrical work or guaranteed transport/vehicle fleet. Registry business descriptions are not proof of current marketed services."
+  },
+  "saved_pages": [
+    {
+      "file": "research/pages/begaer-offert.html",
+      "sha256": "d33169738429d22c17998f0f5e30b68c8a8cf386bdc0c6ca9b961ecc8ac6ed9f"
+    },
+    {
+      "file": "research/pages/index.html",
+      "sha256": "12696aa1d9ce1c371b04904ed1a8b0626b1b10a58f9bd48b77d2a989b3bf6b2e"
+    },
+    {
+      "file": "research/pages/kontakta-oss.html",
+      "sha256": "647bb10f4e231a64322ac8df552d3561a1802ed32891dcd1fd72f75374bb9f63"
+    }
+  ]
+}

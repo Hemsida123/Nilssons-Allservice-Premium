@@ -1,0 +1,114 @@
+[
+  {
+    "file": "assets/logo-display.webp",
+    "source_url": "https://primary.jwwb.nl/public/s/p/h/temp-medvsszxwdkogddfwsij/image-high-1yog80.png",
+    "sha256": "7804cf9de89b215a9ad1b7aaffba753943ba2c307b0ac72246c4c6eb62b20eca",
+    "width": 620,
+    "height": 301,
+    "role": "logo",
+    "caption": "Original logotyp: Nilssons Allservice For Hjo AB.",
+    "provenance_type": "original-logo",
+    "derived_from": "assets/logo-original.png",
+    "crop_bounds": null,
+    "transformation": "Original image crop/resized to 620x301; WebP quality 90; no generated content.",
+    "usage_note": "Original-site logo."
+  },
+  {
+    "file": "assets/logo-icon.png",
+    "source_url": "https://primary.jwwb.nl/public/s/p/h/temp-medvsszxwdkogddfwsij/image-high-1yog80.png",
+    "sha256": "d69ba179263f6bcb5f9ae6744c07c07c323a9069e9361ea65e800386ae3c001b",
+    "width": 128,
+    "height": 62,
+    "role": "logo",
+    "caption": "Original logotyp: Nilssons Allservice For Hjo AB.",
+    "provenance_type": "original-logo",
+    "usage_note": "Company logo from original website.",
+    "derived_from": "assets/logo-original.png",
+    "transformation": "Original logo resized to128x62 and palette optimized for favicon."
+  },
+  {
+    "file": "assets/hero.avif",
+    "source_url": "https://primary.jwwb.nl/pexels/12/12589218.jpeg",
+    "sha256": "13512d4b7aa9fb5271900eb65077939787382abf7614f348c7db38c3dfd53026",
+    "width": 1440,
+    "height": 900,
+    "role": "photo",
+    "caption": "Parkliknande gräsyta med träd, blå himmel och blommande växter.",
+    "provenance_type": "original-site-stock-illustration",
+    "derived_from": "assets/original-hero.jpeg",
+    "crop_bounds": [
+      0,
+      850,
+      1920,
+      2050
+    ],
+    "transformation": "Original photo cropped as documented, resized 1440x900, AVIF quality50; no generated content.",
+    "usage_note": "Illustration from original-site Pexels material. Do not identify as customer work, local geography or company staff."
+  },
+  {
+    "file": "assets/photo-gras.avif",
+    "source_url": "https://primary.jwwb.nl/pexels/67/6728919.jpeg",
+    "sha256": "835f362b558434c5a57cc28722b4a40489ca4347bbe8bce445495c77bf24a9b1",
+    "width": 1400,
+    "height": 935,
+    "role": "photo",
+    "caption": "Gräsklippare i motljus på en gräsyta.",
+    "provenance_type": "original-site-stock-illustration",
+    "derived_from": "assets/original-gras.jpeg",
+    "crop_bounds": null,
+    "transformation": "Original photo cropped as documented, resized 1400x935, AVIF quality50; no generated content.",
+    "usage_note": "Illustration from original-site Pexels material. Do not identify as customer work, local geography or company staff."
+  },
+  {
+    "file": "assets/photo-rojning.avif",
+    "source_url": "https://primary.jwwb.nl/pexels/28/28786717.jpeg",
+    "sha256": "61a9eda91431ddbcec6469c342f226da45ef5c470deb9af176e2be6c70ade0c2",
+    "width": 1400,
+    "height": 875,
+    "role": "photo",
+    "caption": "Person med röd hjälm och skyddsklädsel i skogsmiljö.",
+    "provenance_type": "original-site-stock-illustration",
+    "derived_from": "assets/original-rojning.jpeg",
+    "crop_bounds": [
+      0,
+      150,
+      1920,
+      1350
+    ],
+    "transformation": "Original photo cropped as documented, resized 1400x875, AVIF quality50; no generated content.",
+    "usage_note": "Illustration from original-site Pexels material. Do not identify as customer work, local geography or company staff."
+  },
+  {
+    "file": "assets/photo-sno.avif",
+    "source_url": "https://primary.jwwb.nl/pexels/65/6552213.jpeg",
+    "sha256": "0f56bef4ed8bf6b1e328da5354158be3ef2bc37d124a8a7de03b4ab03294feea",
+    "width": 1400,
+    "height": 875,
+    "role": "photo",
+    "caption": "Snö som kastas genom luften ovanför ett snötäckt område.",
+    "provenance_type": "original-site-stock-illustration",
+    "derived_from": "assets/original-sno.jpeg",
+    "crop_bounds": [
+      0,
+      900,
+      1920,
+      2100
+    ],
+    "transformation": "Original photo cropped as documented, resized 1400x875, AVIF quality50; no generated content.",
+    "usage_note": "Illustration from original-site Pexels material. Do not identify as customer work, local geography or company staff."
+  },
+  {
+    "file": "assets/photo-allservice.avif",
+    "source_url": "https://primary.jwwb.nl/pexels/35/356043.jpeg",
+    "sha256": "b6e72d71b3a46ddd2b8ea6d569670e3814bbfc5d5d21f8c9aace01caaaa22733",
+    "width": 1200,
+    "height": 733,
+    "role": "photo",
+    "caption": "Glödlampa på svart tavla med ritade cirklar.",
+    "provenance_type": "original-site-stock-illustration",
+    "derived_from": "assets/original-allservice.jpeg",
+    "crop_bounds": null,
+    "transformation": "Original photo cropped as documented, resized 1200x733, AVIF quality50; no generated content.",
+    "usage_note": "Illustration from original-site Pexels material. Do not identify as customer work, local geography or company staff."
+  }
+]
